@@ -41,8 +41,17 @@ Jetzt kann in der Dunkelkammer das Licht ausgemacht werden und der Spaß beginne
 
 ## Belichtung
 
-Die Software ist (hoffentlich) selbsterklärend. 
+Die Software ist (hoffentlich) selbsterklärend. Am oberen Bildrand befinden sich drei Buttons, die unterschiedliche Seiten zeigen:
 
+### Image 
+Hier kann ein Bild aus einem Ordner des PCs geladen werden. Mit den Buttons links und rechts kann im Verzeichnis weitergeblättert werden.
+
+### Exposure
+Hier werden Belichtungszeit, Gamma-Wert (Bild-Härte), Zoomfaktor und Bildposition eingestellt.
+Die Belichtung kann entweder getestet (Display immer an) oder zeitlich gesteuert werden.
+
+### Calibrate
+Die Software kann Belichtungs- und Gamma-Reihen erzeugen. Das Belichtungsmuster kann ebenfalls in Größe und Position angepasst und vorher getestet werden.
 
 
 
