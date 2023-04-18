@@ -1,6 +1,6 @@
 # Phone2Paper  
 
-(English version [here](https://github.com/CodeKek/Phone2Paper/blob/master/README_EN.md)).
+__English version [here](https://github.com/CodeKek/Phone2Paper/blob/master/README_EN.md).__
 
 Eine komfortable Software, um Fotopapier direkt vom Handy-Display zu belichten.
 
