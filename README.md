@@ -41,7 +41,7 @@ Falls der Windows-PC in der Dunkelkammer steht, sollten die Monitore ausgeschalt
 
 Jetzt kann in der Dunkelkammer das Licht ausgemacht werden und der Spaß beginnen. 
 
-## Belichtung
+## Benutzung
 
 Die Software ist (hoffentlich) selbsterklärend. Am oberen Bildrand befinden sich drei Buttons, die unterschiedliche Seiten zeigen:
 
