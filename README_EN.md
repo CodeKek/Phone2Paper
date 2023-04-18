@@ -1,20 +1,22 @@
-Phone2Paper
+# Phone2Paper
 
 A convenient software to expose photo paper directly from the phone display.
 
-The software runs on a Windows PC/notebook. The exposure of the photo paper is done by a cell phone display, which is either projected by a lens of an enlarger or directly on the photo paper. Another tablet/mobile phone can be used as an interface.
+The software runs on a Windows PC or notebook. The exposure of the photo paper is done by a cell phone display, which is either projected by a lens of an enlarger or directly in contact to the photo paper. A second tablet or mobile phone can be used as an interface.
 
-Overview
+![Overview](https://raw.githubusercontent.com/CodeKek/Phone2Paper/master/Overview.jpg)
 
-On the tablet, an image can be selected from a PC folder. This is mirrored, converted to grayscale and shown on the cell phone display for an adjustable exposure time. The image can be scaled, positioned and rotated as desired. In addition, the gamma value can be changed to work with paper of different hardness. Furthermore, a calibration function is built in, with which an exposure series with different times as well as different gamma values can be run. The software creates a log file in which an entry with time stamp, image name, exposure time, gamma value and zoom values are stored for each print. In case you are not satisfied with a picture, you can track the exposure parameters and correct them accordingly.
+On the tablet, an image can be selected from a PC folder. The image is flipped, converted to grayscale and shown on the cell phone display for an adjustable exposure time. The image can be scaled, positioned and rotated as desired. In addition, the gamma value can be changed to work with paper of different hardness. With a built-in calibration function an exposure series with different times as well as different gamma values can be run. The software creates a log file in which an entry with time stamp, image file name, exposure time, gamma value and zoom values are stored for each print. In case you are not satisfied with a picture, you can track the exposure parameters and correct them accordingly.
 
 Of course, the quality of the pictures stands and falls with the resolution of the cell phone display. The sharpness of prints from negative films is not achieved, especially with larger formats, but depending on the requirements and intended use, very decent prints can be made from digital images quite comfortably. Especially zooming into an image is done with a few clicks, without having to change the distance and thus the exposure time.
-Installation
 
-The software runs under Windows and can be downloaded here. Alternatively, the source code is available for your own customizations.
+## Installation
 
-To connect cell phone and tablet, the software Spacedesk must be installed on both PC and cell phone (Android or iPhone). Download and instructions here.
-Preparation
+The software runs under Windows and can be downloaded [here](https://github.com/CodeKek/Phone2Paper/blob/master/Phone2Paper.exe). Alternatively, the source code is available for your own customizations.
+
+To connect cell phone and tablet, the software Spacedesk must be installed on both PC and cell phone (Android or iPhone). Download and instructions [here](https://www.spacedesk.net/de/).
+
+## Preparation
 
 The biggest challenge is projecting the cell phone dispay onto the photo paper. On my old medium format enlarger, the top attachment with lamp can be removed and the cell phone simply placed on top.
 
@@ -22,13 +24,12 @@ Once the Spacedesk drivers and apps are installed, the Phone2Paper software is l
 
 For the cell phone, the following settings are useful:
 
-    Spacedesk image quality to maximum
-    Hide Spacedesk Menu
-    Screen brightness to maximum
-    Turn off notifications
+ * Spacedesk image quality to maximum
+ * Hide Spacedesk Menu
+ * Screen brightness to maximum
+ * Turn off notifications
 
 With the tablet, only the brightness should be reduced to a minimum.
-
 
 If the Windows PC is in the darkroom, the monitors should be switched off. Since all three devices communicate via WLAN, the PC can of course also be located outside.
 
