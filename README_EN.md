@@ -1,5 +1,7 @@
 # Phone2Paper
 
+_Deutsch [hier](https://github.com/CodeKek/Phone2Paper/blob/master/README.md)._
+
 A convenient software to expose photo paper directly from the phone display.
 
 The software runs on a Windows PC or notebook. The exposure of the photo paper is done by a cell phone display, which is either projected by a lens of an enlarger or directly in contact to the photo paper. A second tablet or mobile phone can be used as an interface.
