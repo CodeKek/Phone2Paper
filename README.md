@@ -52,7 +52,7 @@ Die Belichtung kann entweder getestet (Display immer an) oder zeitlich gesteuert
 
 ### Calibrate
 Die Software kann Belichtungs- und Gamma-Reihen erzeugen. Das Belichtungsmuster kann ebenfalls in Größe und Position angepasst und vorher getestet werden.
-
+![Belichtungsreihe](https://github.com/CodeKek/Phone2Paper/blob/master/B-Reihe.jpg)
 
 
 
