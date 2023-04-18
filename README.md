@@ -48,7 +48,7 @@ Hier kann ein Bild aus einem Ordner des PCs geladen werden. Mit den Buttons link
 
 ### Exposure
 Hier werden Belichtungszeit, Gamma-Wert (Bild-Härte), Zoomfaktor und Bildposition eingestellt.
-Die Belichtung kann entweder getestet (Display immer an) oder zeitlich gesteuert werden.
+Die Belichtung kann entweder getestet (Display immer an) oder automatisch zeitlich gesteuert werden.
 
 ### Calibrate
 Die Software kann Belichtungs- und Gamma-Reihen erzeugen. Das Belichtungsmuster kann ebenfalls in Größe und Position angepasst und vorher getestet werden.
