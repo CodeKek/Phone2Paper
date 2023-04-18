@@ -37,7 +37,7 @@ If the Windows PC is in the darkroom, the monitors should be switched off. Since
 
 Now the lights can be turned off in the darkroom and the fun can begin.
 
-## Exposure
+## Usage
 
 The software is (hopefully) self-explanatory. At the top of the screen, there are three buttons that show different pages:
 
