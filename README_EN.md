@@ -34,16 +34,22 @@ With the tablet, only the brightness should be reduced to a minimum.
 If the Windows PC is in the darkroom, the monitors should be switched off. Since all three devices communicate via WLAN, the PC can of course also be located outside.
 
 Now the lights can be turned off in the darkroom and the fun can begin.
-Exposure
+
+## Exposure
 
 The software is (hopefully) self-explanatory. At the top of the screen, there are three buttons that show different pages:
-Image
+
+### Image
 
 Here you can load an image from a folder on your PC. With the buttons on the left and right you can scroll through the directory.
-Exposure
+
+### Exposure
 
 Exposure time, gamma value (image hardness), zoom factor and image position are set here. The exposure can either be tested (display always on) or automatically timed.
-Calibrate
+
+### Calibrate
 
 The software can generate exposure and gamma series. The exposure pattern can also be adjusted in size and position and tested beforehand.
+
+![Belichtungsreihe](https://github.com/CodeKek/Phone2Paper/blob/master/B-Reihe.jpg)
 
