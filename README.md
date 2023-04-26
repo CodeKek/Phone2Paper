@@ -46,13 +46,15 @@ Jetzt kann in der Dunkelkammer das Licht ausgemacht werden und der Spaß beginne
 Die Software ist (hoffentlich) selbsterklärend. Am oberen Bildrand befinden sich drei Buttons, die unterschiedliche Seiten zeigen:
 
 ### Image 
+![Menu Image](https://raw.githubusercontent.com/CodeKek/Phone2Paper/master/S3.jpg)
 Hier kann ein Bild aus einem Ordner des PCs geladen werden. Mit den Buttons links und rechts kann im Verzeichnis weitergeblättert werden.
 
 ### Exposure
-Hier werden Belichtungszeit, Gamma-Wert (Bild-Härte), Zoomfaktor und Bildposition eingestellt.
-Die Belichtung kann entweder getestet (Display immer an) oder automatisch zeitlich gesteuert werden.
+![Menu Exposure](https://raw.githubusercontent.com/CodeKek/Phone2Paper/master/S4.jpg)
+Das ist die Seite for das Belichten des Fotopapiers. Zunächst kann der Bildausschnitt (Zoom, Position, Rotation) gewählt werden. Außerdem kann die gewünschte Bildhärte (Gamma-Wert) eingestellt werden. Zum Einrichten (Test) kann das Bild dauerhaft angezeigt werden. Zur eigentlichen Belichtung (Exposure) wird das Bild nur für eine definierte Zeit angezeigt.
 
 ### Calibrate
+![Menu Calibrate](https://raw.githubusercontent.com/CodeKek/Phone2Paper/master/S5.jpg)
 Die Software kann Belichtungs- und Gamma-Reihen erzeugen. Das Belichtungsmuster kann ebenfalls in Größe und Position angepasst und vorher getestet werden.
 
 ![Belichtungsreihe](https://github.com/CodeKek/Phone2Paper/blob/master/B-Reihe.jpg)
