@@ -26,6 +26,7 @@ Download und Anleitung  [hier](https://www.spacedesk.net/de/).
 ## Vorbereitung
 
 Die größte Herausforderung ist die Projektion des Handy-Dispays auf das Fotopapier. Bei meinem alten Mittelformat-Vergrößerungsgerät kann der obere Aufsatz mit Lampe abgenommen werden und das Handy einfach aufgelegt werden.
+![Hardware](https://raw.githubusercontent.com/CodeKek/Phone2Paper/master/H.jpg)
 
 Wenn die Treiber und Apps von Spacedesk installiert sind, wird die Phone2Paper-Software gestartet. Es erscheint ein kleines Hauptfenster, das rot-schwarze Interface-Fenster und das Belichtungsfenster. Die beiden letzteren Fenster werden auf die jeweiligen Geräte verschoben und mit dem Klick im Hauptfenster maximiert.
 
@@ -40,6 +41,7 @@ Beim Tablet sollte lediglich die Helligkeit auf ein Minimum reduziert werden.
 Falls der Windows-PC in der Dunkelkammer steht, sollten die Monitore ausgeschaltet werden. Da alle drei Geräte per WLAN kommunizieren, kann der PC natürlich auch außerhalb stehen. 
 
 Jetzt kann in der Dunkelkammer das Licht ausgemacht werden und der Spaß beginnen. 
+![Dunkelkammer](https://raw.githubusercontent.com/CodeKek/Phone2Paper/master/DK.jpg)
 
 ## Benutzung
 
