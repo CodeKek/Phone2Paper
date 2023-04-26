@@ -51,7 +51,7 @@ Hier kann ein Bild aus einem Ordner des PCs geladen werden. Mit den Buttons link
 
 ### Exposure
 ![Menu Exposure](https://raw.githubusercontent.com/CodeKek/Phone2Paper/master/S4.jpg)
-Das ist die Seite for das Belichten des Fotopapiers. Zunächst kann der Bildausschnitt (Zoom, Position, Rotation) gewählt werden. Außerdem kann die gewünschte Bildhärte (Gamma-Wert) eingestellt werden. Zum Einrichten (Test) kann das Bild dauerhaft angezeigt werden. Zur eigentlichen Belichtung (Exposure) wird das Bild nur für eine definierte Zeit angezeigt.
+Das ist die Seite for das Belichten des Fotopapiers. Zunächst kann der Bildausschnitt (Zoom, Position, Rotation) gewählt werden. Außerdem kann die gewünschte Bildhärte (Gamma-Wert) eingestellt werden. Zum Einrichten ![Test](https://raw.githubusercontent.com/CodeKek/Phone2Paper/master/Button Test.jpg) kann das Bild dauerhaft angezeigt werden. Zur eigentlichen Belichtung (Exposure) wird das Bild nur für eine definierte Zeit angezeigt.
 
 ### Calibrate
 ![Menu Calibrate](https://raw.githubusercontent.com/CodeKek/Phone2Paper/master/S5.jpg)
